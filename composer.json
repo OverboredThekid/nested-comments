@@ -25,7 +25,7 @@
         "filament/filament": "^4.0",
         "kalnoy/nestedset": "^6.0.5",
         "spatie/laravel-package-tools": "^1.15.0",
-        "tangodev-it/filament-emoji-picker": "^1.0.3"
+        "tangodev-it/filament-emoji-picker": "dev-main"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^3.5",
@@ -78,6 +78,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/OverboredThekid/filament-tiptap-editor.git"
+        },
+        {
+           "type": "vcs",
+            "url": "https://github.com/OverboredThekid/filament-emoji-picker.git" 
         }
     ]
 }
