@@ -78,6 +78,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/OverboredThekid/filament-tiptap-editor.git"
-        },
+        }
     ]
 }
